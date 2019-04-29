@@ -13,4 +13,4 @@ Contact: mans@whatthebug.net
 
 ## CTFs
 
-Im also an avid ctf player. Check out some of my writeups/solutions: https://github.com/0n3m4ns4rmy/ctf-write-ups
+Im also an avid ctf player. Check out some of my writeups/solutions [here](https://github.com/0n3m4ns4rmy/ctf-write-ups).
