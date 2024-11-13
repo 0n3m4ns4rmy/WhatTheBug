@@ -1,6 +1,6 @@
 # WhatTheBug
 
-Independent security researcher Mans van Someren.
+Independent security researcher.
 
 Contact: mans@whatthebug.net
 
